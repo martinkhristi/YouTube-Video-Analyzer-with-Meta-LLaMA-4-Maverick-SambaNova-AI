@@ -1,3 +1,5 @@
-streamlit==1.32.2
-openai==1.23.6
-youtube-transcript-api==0.6.1
+streamlit>=1.30.0
+markitdown>=0.1.7
+httpx>=0.26.0
+Pillow>=10.0.0
+markdown>=3.5.0
