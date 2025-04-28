@@ -86,3 +86,4 @@ if youtube_url and api_key:
             st.error(f"🚨 Error: {e}")
 else:
     st.info("👉 Add a YouTube URL and your SambaNova API Key in the sidebar to get started.")
+
